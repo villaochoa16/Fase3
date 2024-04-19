@@ -1,0 +1,20 @@
+[
+  {
+    "nombre": "w",
+    "apellido": "w",
+    "correo": "w",
+    "contraseña": "w"
+  },
+  {
+    "nombre": "t",
+    "apellido": "t",
+    "correo": "t",
+    "contraseña": "t"
+  },
+  {
+    "nombre": "jose luis",
+    "apellido": "ochoa",
+    "correo": "villaochoa16@gmail.com",
+    "contraseña": "test"
+  }
+]
